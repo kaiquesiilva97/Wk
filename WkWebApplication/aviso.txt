@@ -1,3 +1,4 @@
 Não utilizei a dashboard que utilizo por medo de da algum problema, utilizei o bootstrap padrão.
 Ta no cabeçalho o acesso para categoria e produto. 
 Arquivo JS utilizado está na pasta view dentro da pasta js
+Eu poderia ter feito tudo na controller os crud, mas no teste especificou a criação da Api, ai diexei a controller só para chamada da pagina e manipulação de dados iniciais.
