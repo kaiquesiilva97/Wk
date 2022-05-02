@@ -1,0 +1,2 @@
+Não utilizei a dashboard que utilizo por medo de da algum problema, utilizei o bootstrap padrão.
+Ta no cabeçalho o acesso para categoria e produto.
