@@ -1,2 +1,3 @@
 Não utilizei a dashboard que utilizo por medo de da algum problema, utilizei o bootstrap padrão.
-Ta no cabeçalho o acesso para categoria e produto.
+Ta no cabeçalho o acesso para categoria e produto. 
+Arquivo JS utilizado está na pasta view dentro da pasta js
